@@ -1,0 +1,20 @@
+Multi Cluster Application Management: (MCM)
+
+Instrucciones: https://www.ibm.com/cloud/garage/dte/tutorial/multi-cluster-application-management
+Entorno: http://conf.bluedemos.com/app/home/session/4278/ih3iwcn3o3blupvzx9nwE6C56VUHINQJ5G71VLYT6Erghxg5btziAJ9VPRPOBSUm
+
+
+Infrastructure Management (CAM):
+
+https://www.ibm.com/cloud/garage/dte/producttour/automate-infrastructure-provisioning-multicloud-environment
+
+
+Event Management (AppManagement):
+
+https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-pak-mcm-event-management-hands-lab
+Entorno: http://conf.bluedemos.com/app/home/session/4279/ih3iwcn3o3blupvzx9nwE6C56VUHINQJ5G71VLYT6Erghxg5btziAJ9VPRPOBSUm
+
+
+Usuarios: 
+spainpotmcm1 - 10
+
